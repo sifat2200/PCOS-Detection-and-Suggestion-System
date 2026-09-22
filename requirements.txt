@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+scipy
+shap
+transformers
+sentence-transformers
+torch

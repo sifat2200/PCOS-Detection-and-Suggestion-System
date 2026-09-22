@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local datasets - do not commit unless redistribution is explicitly permitted
+*.csv
+*.xlsx
+*.xls
+
+# Model/checkpoint files
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Secrets
+.env
+*.env
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Generated output
+outputs/
+logs/
+results/generated/
