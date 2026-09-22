@@ -1,8 +1,6 @@
 # Documentation
 
-Place the final CSE445 project report, presentation-related documentation, diagrams, or other supporting documents here.
-
-Recommended filename:
+Place the final project report, presentation-related documentation, diagrams, and other supporting documents here.
 
 ```text
 CSE445_Project_Report.pdf
